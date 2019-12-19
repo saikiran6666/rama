@@ -1,0 +1,25 @@
+[33mcommit 147a61d4a31cc5821d4f34493747f7b14355d992[m[33m ([m[1;36mHEAD -> [m[1;32mhi[m[33m)[m
+Author: saikiran6666 <manikishorepuppala@gmail.com>
+Date:   Fri Oct 11 14:22:56 2019 +0530
+
+    fdtg
+
+[1mdiff --git a/program22.py b/program22.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4fc9f27[m
+[1m--- /dev/null[m
+[1m+++ b/program22.py[m
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32mimport collections[m
+[32m+[m[32ms=input()[m
+[32m+[m[32mx=s.split()[m
+[32m+[m[32mm=collections.Counter(x)[m
+[32m+[m[32mprint(m)[m
+[32m+[m
+[32m+[m
+[32m+[m[32m#[m
+[32m+[m[32m# import collections[m
+[32m+[m[32m# s=input()[m
+[32m+[m[32m# x=s.split()[m
+[32m+[m[32m# m=collections.Counter(x)[m
+[32m+[m[32m# print(m)[m
